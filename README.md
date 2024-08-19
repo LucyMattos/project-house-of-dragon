@@ -21,7 +21,7 @@ Aqui você pode visualizar a prévia do carrossel:
 
 
 <p align="center">
-    <img src="./src/assets/image/previa.png" width="500"/>
+    <img src="./src/assets/image/previa.png" width="900"/>
 </p>
 
 ## 📂 Como Executar o Projeto
